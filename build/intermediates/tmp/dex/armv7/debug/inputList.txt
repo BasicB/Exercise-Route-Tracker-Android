@@ -1,0 +1,3 @@
+C:\Users\Bbaker13\Desktop\android\build\intermediates\classes\armv7\debug
+C:\Users\Bbaker13\Desktop\android\build\intermediates\pre-dexed\armv7\debug\classes-4958bef715774b7230b8ae6349465413dc159e93.jar
+C:\Users\Bbaker13\Desktop\android\build\intermediates\pre-dexed\armv7\debug\classes-5155a1e04c8cd45571a1b8d1d80a3c9f188906c3.jar

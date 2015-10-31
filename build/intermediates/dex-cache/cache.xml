@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Bradley\Desktop\Exercise Route Tracker Android\build\intermediates\exploded-aar\Exercise Route Tracker Android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="151f56c96502f20348fb49b6e018e614d406308c">
+        <dex dex="C:\Users\Bradley\Desktop\Exercise Route Tracker Android\build\intermediates\pre-dexed\armv7\debug\classes-af7434ca48668ac076abff59c74bcfb14c30ee55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bradley\Desktop\Exercise Route Tracker Android\build\intermediates\exploded-aar\org.xwalk\xwalk_core_library_beta\11.40.277.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="894ed66c88aa2fcdaf3aa85dc1a1539f98727b3a">
+        <dex dex="C:\Users\Bradley\Desktop\Exercise Route Tracker Android\build\intermediates\pre-dexed\armv7\debug\classes-325903956224633a40dfe3b1e15dc0d6295431cb.jar" />
+    </item>
+
+</items>

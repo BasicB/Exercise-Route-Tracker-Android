@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Bbaker13\Desktop\android\src\androidTest\res"/><source path="C:\Users\Bbaker13\Desktop\android\build\generated\res\rs\test\armv7\debug"/><source path="C:\Users\Bbaker13\Desktop\android\build\generated\res\generated\test\armv7\debug"/></dataSet><dataSet config="androidTestArmv7"><source path="C:\Users\Bbaker13\Desktop\android\src\androidTestArmv7\res"/></dataSet><mergedItems/></merger>

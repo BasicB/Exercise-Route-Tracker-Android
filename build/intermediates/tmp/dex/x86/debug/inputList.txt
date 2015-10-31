@@ -1,0 +1,3 @@
+C:\Users\Bbaker13\Workshop\platforms\android\build\intermediates\classes\x86\debug
+C:\Users\Bbaker13\Workshop\platforms\android\build\intermediates\pre-dexed\x86\debug\classes-9914159a35c5ace6c74759fbe9ed5eac7d4f1568.jar
+C:\Users\Bbaker13\Workshop\platforms\android\build\intermediates\pre-dexed\x86\debug\classes-b6ec3274782e4e7af52c19af603325d93a920569.jar
